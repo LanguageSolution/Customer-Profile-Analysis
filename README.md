@@ -20,23 +20,23 @@ I was provided with datasets that contained all the customer information:
 ## Folders
 The project analysis is separated into the following folders:
 
-# Project Management: 
+#Project Management: 
 
 Contains the Project Brief
 
-# Data:
+#Data:
 
 Separated into Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. NOTE: This folder has not been included.
 
-# Scripts: 
+#Scripts: 
 
 Contains all the Python coding involved for the entire analysis process.
 
-# Analysis: 
+#Analysis: 
 
 Contains the Visualizations used for developing insights and presenting in the final report.
 
-# Sent to Client: 
+#Sent to Client: 
 
 Contains the Final Report in Excel
 
