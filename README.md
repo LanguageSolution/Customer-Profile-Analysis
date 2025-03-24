@@ -26,7 +26,8 @@ Contains the Project Brief
 
 ### Data:
 
-Separated into Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. NOTE: This folder has not been included.
+Separated into Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. 
+Note: This folder has not been included.
 
 ### Scripts: 
 
@@ -39,6 +40,10 @@ Contains the Visualizations used for developing insights and presenting in the f
 ### Sent to Client: 
 
 Contains the Final Report in Excel
+
+## Resources & Disclaimer
+
+Note: Instacart is a real company that’s made their data available online. However, the contents of the attached project brief have been fabricated by CareerFoundry for the purpose of this analysis.
 
 
 
