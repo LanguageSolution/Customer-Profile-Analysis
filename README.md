@@ -43,7 +43,7 @@ Contains the Final Report in Excel
 
 ## Resources & Disclaimer
 
-Note: Instacart is a real company that’s made their data available online. However, the contents of the attached project brief have been fabricated by CareerFoundry for the purpose of this analysis.
+Note: Instacart is a real company that’s made their data available online. However, the contents of the attached project brief have been made by CareerFoundry for the purpose of this analysis.
 
 
 
